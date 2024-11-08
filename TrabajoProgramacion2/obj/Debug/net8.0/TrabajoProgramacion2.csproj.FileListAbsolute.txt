@@ -1,0 +1,14 @@
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\bin\Debug\net8.0\TrabajoProgramacion2.exe
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\bin\Debug\net8.0\TrabajoProgramacion2.deps.json
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\bin\Debug\net8.0\TrabajoProgramacion2.runtimeconfig.json
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\bin\Debug\net8.0\TrabajoProgramacion2.dll
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\bin\Debug\net8.0\TrabajoProgramacion2.pdb
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.AssemblyInfo.cs
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.dll
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\refint\TrabajoProgramacion2.dll
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.pdb
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\TrabajoProgramacion2.genruntimeconfig.cache
+C:\Users\antho\source\repos\TrabajoProgramacion2\TrabajoProgramacion2\obj\Debug\net8.0\ref\TrabajoProgramacion2.dll
